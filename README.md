@@ -6,7 +6,7 @@ The [default community health files](https://docs.github.com/communities/setting
 
 ### `.github/`
 
-FUNDING.yaml
+- `FUNDING.yaml`
 
 ### `docs/`
 
